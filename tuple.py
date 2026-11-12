@@ -17,8 +17,8 @@ print(sum(c))#gives sum
 print(max(c))#gives max
 print(min(c))#gives min
 print(len(b))#gives length
-print(sorted(c))#gives sorted tuple
-print(sorted(c,reverse=True))#gives sorted tuple
+print(sorted(c))#gives sorted list of tuple
+print(sorted(c,reverse=True))#gives sorted reversed list of tuple
 
 #methods
 print(c.count(50))#count how many times it occurs
