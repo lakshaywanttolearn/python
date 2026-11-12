@@ -1,4 +1,4 @@
-#\\\\\TUPLE\\\\
+#\\\\\TUPLE\\\\ immutable ,()
 
 a=50,   #same as a=(50,) and a=(50) it considred as int datatype
 print(type(a)) #single element tuple
